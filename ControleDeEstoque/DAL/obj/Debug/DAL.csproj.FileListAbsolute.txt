@@ -1,0 +1,24 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.pdb
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.pdb
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.pdb

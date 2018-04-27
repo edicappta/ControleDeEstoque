@@ -1,0 +1,36 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.pdb
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+C:\Users\Edimilson\Downloads\PDVs\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.pdb
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+C:\Users\edmilson.santos\Documents\PDVs Open\pdv\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.pdb

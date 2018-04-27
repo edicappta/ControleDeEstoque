@@ -1,0 +1,4 @@
+CAPPDESK-0147\SQLEXPRESS
+ponto_de_venda
+sa
+Qwerty@#$1515
